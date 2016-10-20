@@ -2,4 +2,4 @@
 lucky-word: ShangHai is charming.
 wordConfig:
   preamble: The lucky word is shanghai
-  luckyWord: Shanghai is...
+  luckyWord: Shanghai is wordConfig.luckyWord.
