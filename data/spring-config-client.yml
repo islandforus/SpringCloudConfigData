@@ -1,5 +1,5 @@
 ---
-lucky-word: ShangHai is charming.
+lucky-word: ShangHai is charming....
 wordConfig:
   preamble: The lucky word is shanghai
   luckyWord: Shanghai is wordConfig.luckyWord after modified.
