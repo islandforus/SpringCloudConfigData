@@ -3,4 +3,4 @@ spring:
     config:
       server:
         git:
-          path: https://github.com/spring-cloud-samples/config-repo          
+          gitPath: https://github.com/spring-cloud-samples/config-repo          
